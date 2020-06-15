@@ -1,0 +1,1 @@
+[Motor mount 3D preview](mount.stl)
